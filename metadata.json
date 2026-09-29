@@ -1,0 +1,6 @@
+{
+  "name": "GovTech Careers",
+  "description": "Find and track verified government job opportunities, PSU recruitments, and technical exams for Computer Science and IT graduates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
